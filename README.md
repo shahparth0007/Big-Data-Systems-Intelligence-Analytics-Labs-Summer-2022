@@ -1,7 +1,7 @@
 # Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022
 
 # DAMG7245
-## Big Data Systems & Intelligence Analytics Labs - Spring 2021
+## Big Data Systems & Intelligence Analytics Labs - Summer 2022
 
 ### Requirements
 

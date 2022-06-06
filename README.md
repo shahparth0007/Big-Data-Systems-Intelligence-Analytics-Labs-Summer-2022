@@ -10,6 +10,8 @@ You can choose any of the cloud platforms, but most of the tutorials will be bas
 - Signup for an GCP Account [here](https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1011347&utm_content=text-ad-none-any-DEV_c-CRE_491414383178-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP%20~%20General_GCP-KWID_43700060017842318-aud-388092988201%3Akwd-527294293847&utm_term=KW_gcp%20account-ST_gcp%20account&gclid=EAIaIQobChMIjJOR5pXj9wIVA4jICh0bjwq9EAAYASAAEgJQBfD_BwE&gclsrc=aw.ds).
 - Python 3.7+
 
-Upcoming Lab: Github, Github Tasks, Github Actions 
+Labs Index:
+1) Lab 1: How to setup a data science project with CookieCutter
+2) Lab 2: How to document with Google CodeLabs
 
 

@@ -12,6 +12,6 @@ You can choose any of the cloud platforms, but most of the tutorials will be bas
 
 Labs Index:
 1) [Lab 1 : How to setup a data science project with CookieCutter](https://github.com/shahparth0007/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022/tree/main/Lab1)
-2) Lab 2: How to document with Google CodeLabs
+2)  Lab 2: How to document with Google CodeLabs
 
 

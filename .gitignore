@@ -8,6 +8,11 @@ __pycache__/
 
 workshops
 
+Generate_MetaData/archive
+Generate_MetaData/MetaData.csv
+
+Lab3/great_expectations/Data
+ßß
 # Distribution / packaging
 .Python
 build/

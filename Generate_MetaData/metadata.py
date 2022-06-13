@@ -58,7 +58,7 @@ def create_metadata(image_directory,extra_file):
 
 #run when file is directly executed
 if __name__ == '__main__':
-    return_sentiment = create_metadata('archive/images','archive/annotations.csv')
+    create_metadata('archive/images','archive/annotations.csv')
     print("done")
 
 

@@ -1,0 +1,5 @@
+fastapi==0.78.0
+matplotlib==3.5.2
+numpy==1.19.5
+tensorflow==2.4.1
+uvicorn==0.18.2

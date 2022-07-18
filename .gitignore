@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-AiflowTutorial/
-DockerTutorial/
+AiflowTutorial/airflow
+DockerTutorial/docekr
+
 workshops
 
 Generate_MetaData/archive

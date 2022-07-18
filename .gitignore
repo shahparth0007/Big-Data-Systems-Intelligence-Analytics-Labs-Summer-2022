@@ -6,13 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+AiflowTutorial/
+DockerTutorial/
 workshops
 
 Generate_MetaData/archive
 Generate_MetaData/MetaData.csv
 
+Lab5/Model/tensorflow-2.4.1-py3-none-any.whl
 Lab3/great_expectations/Data
-ßß
+
 # Distribution / packaging
 .Python
 build/

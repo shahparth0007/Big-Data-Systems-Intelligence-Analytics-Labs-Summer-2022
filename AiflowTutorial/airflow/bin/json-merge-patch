@@ -1,0 +1,7 @@
+#!/Users/parthshah/Documents/Northeastern/Summer2022/BigDataTA/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022/AiflowTutorial/airflow/bin/python3.9
+import json_merge_patch.cli
+json_merge_patch.cli.main()
+
+
+
+

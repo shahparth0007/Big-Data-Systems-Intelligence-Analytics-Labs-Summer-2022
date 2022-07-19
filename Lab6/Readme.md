@@ -14,7 +14,7 @@
 
 ### Step 01: Download Source Code
 
-* Dockerize a `FastAPI` application, Clone this [repo]()  <br>
+* Dockerize a `FastAPI` application, Clone this branch `deploy-template`  <br>
 * Setup a python virtual environment
     ```bash
     python3 -m venv demo

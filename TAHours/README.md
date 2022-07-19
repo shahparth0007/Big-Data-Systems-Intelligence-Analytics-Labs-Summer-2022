@@ -1,2 +1,0 @@
-# TA Hours Content
-

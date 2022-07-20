@@ -134,32 +134,32 @@ Note: Keep your Docker Desktop running, verify its running by using `docker ps`
     name: ci
 
     on:
-    push:
+      push:
         branches:
-        - 'deploy'      ## Update the branch name
+          - 'deploy-template'      ## Update the branch name
 
     jobs:
-    docker:
+      docker:
         runs-on: ubuntu-latest
         steps:
-        -
+          -
             name: Set up QEMU
             uses: docker/setup-qemu-action@v2
-        -
+          -
             name: Set up Docker Buildx
             uses: docker/setup-buildx-action@v2
-        -
+          -
             name: Login to DockerHub
             uses: docker/login-action@v2
             with:
-            username: ${{ secrets.DOCKERHUB_USERNAME }}
-            password: ${{ secrets.DOCKERHUB_TOKEN }}
-        -
+              username: ${{ secrets.DOCKERHUB_USERNAME }}
+              password: ${{ secrets.DOCKERHUB_TOKEN }}
+          -
             name: Build and push
             uses: docker/build-push-action@v3
             with:
-            push: true
-            tags: anku22/fastapi:latest # Update the dockerhub_id, image_name and tag
+              push: true
+              tags: anku22/fastapi:latest # Update the dockerhub_id, image_name and tag
     ```
 
 * Commit the changes.
